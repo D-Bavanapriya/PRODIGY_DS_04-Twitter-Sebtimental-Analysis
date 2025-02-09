@@ -1,4 +1,4 @@
-# PRODIGY_DS_04-Twitter-Sebtimental-Analysis
+# Task-04
 # Twitter Sentiment Analysis
 This repository is dedicated to performing sentiment analysis on Twitter data. The project uses natural language processing (NLP) techniques to analyze tweets and classify them based on sentiment, which can be positive, negative, or neutral. The goal is to build a model that can accurately predict the sentiment of a given tweet.
 
