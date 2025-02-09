@@ -44,7 +44,11 @@ Matplotlib & Seaborn: For visualizing data and model performance.
 Jupyter Notebook: Used to document and run the entire workflow.
 # Project Highlights
 Text Preprocessing: Cleaned and prepared the tweet dataset for modeling.
+
 Feature Extraction: Transformed text data into numerical features using BoW and TF-IDF.
+
 Model Training: Built and optimized multiple classification models for sentiment analysis.
+
 Model Evaluation: Thoroughly evaluated model performance using various metrics and visualizations.
+
 Sentiment Prediction: Successfully predicted the sentiment of new Twitter data using the trained model.
